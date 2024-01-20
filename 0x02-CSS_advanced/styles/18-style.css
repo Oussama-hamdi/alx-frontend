@@ -315,7 +315,7 @@ a:active {
 
 .nav .nav-link {
   display: block;
-  padding: calc(1rem / 2) 1rem;
+  padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover {
