@@ -353,7 +353,7 @@ ul.row {
   text-align: right;
 }
 
-.row::before {
+.row::after {
   content: "";
   display: table;
   clear: both;
